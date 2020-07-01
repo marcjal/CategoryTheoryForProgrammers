@@ -45,3 +45,5 @@ These are my notes taken from the video lessons by Bartosz Milewski about Catego
 - [Catamorphisms and Anamorphisms](https://www.youtube.com/watch?v=PAqzQMzsUU8)
 - [Lenses](https://www.youtube.com/watch?v=9_iYlp8smc8)
 - [Lenses categorically](https://www.youtube.com/watch?v=rAa3pGp97IM)
+- [Overview part 1](https://www.youtube.com/watch?v=F5uEpKwHqdk)
+- [Overview part 2](https://www.youtube.com/watch?v=CfoaY2Ybf8M)
