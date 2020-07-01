@@ -47,3 +47,5 @@ These are my notes taken from the video lessons by Bartosz Milewski about Catego
 - [Lenses categorically](https://www.youtube.com/watch?v=rAa3pGp97IM)
 - [Overview part 1](https://www.youtube.com/watch?v=F5uEpKwHqdk)
 - [Overview part 2](https://www.youtube.com/watch?v=CfoaY2Ybf8M)
+- [String Diagrams part 1](https://www.youtube.com/watch?v=eOdBTqY3-Og)
+- [String Diagrams part 2](https://www.youtube.com/watch?v=lqq9IFSPp7Q)
