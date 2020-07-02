@@ -50,3 +50,6 @@ These are my notes taken from the video lessons by Bartosz Milewski about Catego
 - [String Diagrams part 1](https://www.youtube.com/watch?v=eOdBTqY3-Og)
 - [String Diagrams part 2](https://www.youtube.com/watch?v=lqq9IFSPp7Q)
 - [Adjunctions and monads](https://www.youtube.com/watch?v=9p6_U5yV0ro)
+- [Monad Algebras part 1](https://www.youtube.com/watch?v=uXfBmsQJsN4)
+- [Monad Algebras part 2](https://www.youtube.com/watch?v=-wlT81LQ4Oc)
+- [Monad Algebras part 3](https://www.youtube.com/watch?v=9f8PumwS2gU)
