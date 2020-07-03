@@ -55,3 +55,4 @@ These are my notes taken from the video lessons by Bartosz Milewski about Catego
 - [Monad Algebras part 3](https://www.youtube.com/watch?v=9f8PumwS2gU)
 - [Eilenberg Moore and Lawvere](https://www.youtube.com/watch?v=5PaxKu2TXno)
 - [Lawvere Theories](https://www.youtube.com/watch?v=zCTAn_nIrS0)
+- [Profunctors](https://www.youtube.com/watch?v=XJgfrF3O6iE)
