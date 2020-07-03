@@ -58,3 +58,4 @@ These are my notes taken from the video lessons by Bartosz Milewski about Catego
 - [Profunctors](https://www.youtube.com/watch?v=XJgfrF3O6iE)
 - [Ends](https://www.youtube.com/watch?v=TAPxt26YyEI)
 - [Natural transformations as ends](https://www.youtube.com/watch?v=DseY4qIGZV4)
+- [Coends](https://www.youtube.com/watch?v=jQUebw8uac0)
